@@ -1,3 +1,17 @@
+<h1 align="center">
+  :warning: :warning: CAUTION :warning: :warning:
+</h1>
+<p align="center">
+  ————————————————————————————————————————
+</p>
+<p align="center">
+  <strong>This project is currently under heavy development and is not yet complete. It's recommended not to use it in a production environment until a stable release is available. We cannot guarantee backward compatibility or provide full support for issues until this project reaches a more mature and stable stage. Stay tuned for updates and thank you for your understanding.</strong>
+</p>
+<p align="center">
+  ————————————————————————————————————————
+</p>
+
+
 # Automatic Component Export in Next.js
 
 This project provides a script that automatically generates export statements for components in the `components` directory and updates the `components/index.js` file. This saves you from manually adding components to the index file whenever you create a new component.
